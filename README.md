@@ -14,9 +14,9 @@ Please install the following:
 ## Quickstart
 
 ```bash
-git clone https://github.com/ayo-klaytn/klaytn-foundry-starterkit
-cd klaytn-foundry-starterkit
-forge insatall
+git clone https://github.com/ayo-klaytn/kaia-foundry-starterkit
+cd kaia-foundry-starterkit
+forge install
 ```
 
 ## Compile
